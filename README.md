@@ -191,4 +191,4 @@ Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo, modificarlo
 
 ## 🤝 Contribuciones y Comunidad
 
-¡Las contribuciones son bienvenidas! Si tienes optimizaciones para el backend de red o integraciones nativas con frameworks de RL orientados a hardware de AMD, abre un *Pull Request* o inicia un *Issue*.
+¡Las contribuciones son bienvenidas!
