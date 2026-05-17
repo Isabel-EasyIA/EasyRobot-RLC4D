@@ -1,4 +1,4 @@
-# Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline 🇪🇸
+# 🇪🇸 Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline 🇪🇸
 
 ![Portada](imagenes/inicio.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
 
-# Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline 🇪🇸
+# 🇪🇸 Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline 🇪🇸
 **Easy Robot RL** es una herramienta y plugin de automatización para **Cinema 4D** desarrollado en Python. Permite transformar el entorno 3D en un simulador de robótica de alta velocidad para tareas de **Aprendizaje por Refuerzo (Reinforcement Learning)**. 
 
 El proyecto destaca por su arquitectura agnóstica en la generación de entornos y su transmisión de datos ultra optimizada en binario (16-bit). Está diseñado específicamente para alimentar servidores de IA externos acelerados por **AMD ROCm / HIP SDK** en entornos Windows, eliminando los cuellos de botella tradicionales entre la CPU de diseño y la GPU de cómputo.
@@ -26,7 +26,7 @@ El proyecto destaca por su arquitectura agnóstica en la generación de entornos
 
 ---
 
-## 🛠️ Arquitectura del Pipeline de Datos
+##  Arquitectura del Pipeline de Datos
 
 El script se comporta como el **Entorno de Simulación (Environment)**. No requiere recursos gráficos pesados de la GPU para calcular las físicas básicas y distancias, lo que permite reservar toda la potencia de tu tarjeta gráfica AMD para el entrenamiento del modelo.
 
@@ -42,7 +42,7 @@ El script se comporta como el **Entorno de Simulación (Environment)**. No requi
 
 ---
 
-## 🚀 Instalación y Uso rápido
+##  Instalación y Uso rápido
 
 ### 1. En Cinema 4D:
 1. Descarga el archivo de este repositorio.
@@ -61,7 +61,7 @@ Cada paquete enviado por el socket UDP sigue el siguiente estándar secuencial p
 
 ---
 
-## 🧪 Integración con AMD ROCm (Ejemplo de Receptor)
+##  Integración con AMD ROCm (Ejemplo de Receptor)
 
 Para capturar y enviar estos datos directamente a tu tarjeta gráfica AMD mediante **PyTorch**, puedes utilizar el siguiente enfoque en tu script de entrenamiento externo:
 
