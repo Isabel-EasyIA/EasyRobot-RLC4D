@@ -182,7 +182,8 @@ if __name__ == "__main__":
 [GPU METRICS] Alloc Device: cuda:0 | Caché Reservada PyTorch: 2.00 MB
 ```
 ---
-
+![Portada](imagenes/cinema4d.png)
+---
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo, modificarlo y adaptarlo para tus propios desarrollos de robótica y simulación industrial.
