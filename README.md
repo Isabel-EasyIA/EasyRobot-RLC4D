@@ -4,7 +4,7 @@
 [![Cinema 4D](https://shields.io)](https://maxon.net)
 [![AMD ROCm](https://shields.io)](https://amd.com)
 
-![Portada de EasyOS iA](Imagenes/Inicio.png)
+![Portada](imagenes/inicio.png)
 
 **Easy Robot RL** es una herramienta y plugin de automatización para **Cinema 4D** desarrollado en Python. Permite transformar el entorno 3D en un simulador de robótica de alta velocidad para tareas de **Aprendizaje por Refuerzo (Reinforcement Learning)**. 
 
