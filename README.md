@@ -1,11 +1,12 @@
-# Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline
+# Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline 🇪🇸
 
+![Portada](imagenes/inicio.png)
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Cinema 4D](https://shields.io)](https://maxon.net)
 [![AMD ROCm](https://shields.io)](https://amd.com)
+[![Python](https://shields.io)](https://python.org)
 
-![Portada](imagenes/inicio.png)
-
+# Easy Robot RL: Cinema 4D To AMD ROCm AI Pipeline 🇪🇸
 **Easy Robot RL** es una herramienta y plugin de automatización para **Cinema 4D** desarrollado en Python. Permite transformar el entorno 3D en un simulador de robótica de alta velocidad para tareas de **Aprendizaje por Refuerzo (Reinforcement Learning)**. 
 
 El proyecto destaca por su arquitectura agnóstica en la generación de entornos y su transmisión de datos ultra optimizada en binario (16-bit). Está diseñado específicamente para alimentar servidores de IA externos acelerados por **AMD ROCm / HIP SDK** en entornos Windows, eliminando los cuellos de botella tradicionales entre la CPU de diseño y la GPU de cómputo.
